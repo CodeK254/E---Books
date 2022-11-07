@@ -1,0 +1,2 @@
+//-------------------------------------- U R L S ---------------------------------------
+const String booksURL = "https://api.nytimes.com/svc/books/v3/lists/overview.json?api-key=wWQWgrLqmx3LfekAUjr0vexnKL96yR58";
